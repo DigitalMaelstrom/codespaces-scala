@@ -1,0 +1,2 @@
+FROM hseeberger/scala-sbt:16.0.2_1.5.5_3.0.1
+
